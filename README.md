@@ -1,4 +1,8 @@
-## Ola eu sou Bruno Dias, estudante e consumidor de conteúdos de desenvolvimento.
+<div align="center">## Ola me chamo Bruno Dias.
+
+<hr>
+<div aling="left">Sou estudante e consumidor de conteúdos de desenvolvimento.
+<hr>
 <div align="center">
   <a href="https://github.com/BrunossCDias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunossCDias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
