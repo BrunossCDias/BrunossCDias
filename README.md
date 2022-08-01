@@ -1,4 +1,4 @@
-<div align="center">## Ola me chamo Bruno Dias.
+<div align="center">## Olá, me chamo Bruno Dias.
 
 <hr>
 <div aling="left">Sou estudante e consumidor de conteúdos de desenvolvimento.
