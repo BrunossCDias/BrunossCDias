@@ -9,6 +9,8 @@
 <hr>
 <div aling="left">Sou estudante e no momento faço o consumo de conteúdos em PYTHON.
 <hr>
+
+
 <div align="center">
   <a href="https://github.com/BrunossCDias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunossCDias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
