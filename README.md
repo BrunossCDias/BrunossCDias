@@ -1,7 +1,13 @@
-<div align="center">## Olá, me chamo Bruno Dias.
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+
+<div align="center">## Olá REDE, me chamo Bruno Dias.
 
 <hr>
-<div aling="left">Sou estudante e consumidor de conteúdos de desenvolvimento.
+<div aling="left">Sou estudante e no momento faço o consumo de conteúdos em PYTHON.
 <hr>
 <div align="center">
   <a href="https://github.com/BrunossCDias">
