@@ -6,9 +6,6 @@
 
 <div align="center">## Olá REDE, me chamo Bruno Dias.
 
-<hr>
-<div aling="left">Sou estudante e no momento faço o consumo de conteúdos PYTHON.
-<hr>
 
 
 <div align="center">
